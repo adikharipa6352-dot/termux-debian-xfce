@@ -18,7 +18,7 @@ pkg update && pkg upgrade -y
 pkg install git -y
 
 # Clone repositori ini
-git clone https://github.com/USERNAME_ANDA/termux-debian-xfce.git
+https://github.com/adikharipa6352-dot/termux-debian-xfce.git
 cd termux-debian-xfce
 
 # Beri izin eksekusi pada skrip
